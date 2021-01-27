@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_ZvgGUVb8EeuW6sejKKgFmw" name="Default">
+  <contextParameter xmi:id="_ZwT-oFb8EeuW6sejKKgFmw" comment="" name="gcp_localfile" prompt="gcp_localfile?" promptNeeded="false" type="id_String" value="&quot;C:/Users/daparti.chowdary/OneDrive - Mphasis/Desktop/gcp_local.txt&quot;"/>
+  <contextParameter xmi:id="_ZwT-oVb8EeuW6sejKKgFmw" comment="" name="gcp_servicefile" prompt="gcp_servicefile?" promptNeeded="false" type="id_String" value="&quot;C:\Users\daparti.chowdary\Downloads\cio-nextgenrnd-project-6c55b2970ef0.json&quot;"/>
+  <contextParameter xmi:id="_ZwT-olb8EeuW6sejKKgFmw" comment="" name="gcp_projectid" prompt="gcp_projectid?" promptNeeded="false" type="id_String" value="&quot;cio-nextgenrnd-project&quot;"/>
+  <contextParameter xmi:id="_ZwT-o1b8EeuW6sejKKgFmw" comment="" name="gcp_dataset" prompt="gcp_dataset?" promptNeeded="false" type="id_String" value="&quot;dummy&quot;"/>
+  <contextParameter xmi:id="_ZwT-pFb8EeuW6sejKKgFmw" comment="" name="gcp_table" prompt="gcp_table?" promptNeeded="false" type="id_String" value="&quot;test_table&quot;"/>
+  <contextParameter xmi:id="_ZwT-pVb8EeuW6sejKKgFmw" comment="" name="gcp_accesskey" prompt="gcp_accesskey?" promptNeeded="false" type="id_String" value="&quot;GOOG1EAZIRO5HBDFQTKO7UGITL4Q2F3T5VPSGBSH7ZL4GRKAZ3ZJWFOYEQCNA&quot;"/>
+  <contextParameter xmi:id="_ZwT-plb8EeuW6sejKKgFmw" comment="" name="gcp_secretkey" prompt="gcp_secretkey?" promptNeeded="false" type="id_String" value="&quot;vJe+Y9hiALAk35YKdPgDLidjrvGsJ6qHoFkV9g9M&quot;"/>
+  <contextParameter xmi:id="_ZwT-p1b8EeuW6sejKKgFmw" comment="" name="gcp_bucket" prompt="gcp_bucket?" promptNeeded="false" type="id_String" value="&quot;test_input_sri&quot;"/>
+  <contextParameter xmi:id="_ZwT-qFb8EeuW6sejKKgFmw" comment="" name="gcp_file" prompt="gcp_file?" promptNeeded="false" type="id_String" value="&quot;gs://test_input_sri/gcp_local.txt&quot;"/>
+</talendfile:ContextType>
